@@ -1,1 +1,11 @@
-# awesome-federated-learning
+# Federated Learning Resources
+
+## Courses
+
+## Frameworks and Libraries
+
+## Research Papers
+
+## Blogs
+
+## Videos
