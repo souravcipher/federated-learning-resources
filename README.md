@@ -4,6 +4,8 @@
 
 ## Frameworks and Libraries
 
+- [Flower](https://github.com/adap/flower)
+
 ## Research Papers
 
 ## Blogs
