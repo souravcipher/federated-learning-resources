@@ -2,6 +2,8 @@
 
 ## Courses
 
+- [Private AI Series](https://courses.openmined.org/courses/foundations-of-private-computation)
+
 ## Frameworks and Libraries
 
 - [Flower](https://github.com/adap/flower)
