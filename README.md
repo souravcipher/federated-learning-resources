@@ -3,6 +3,7 @@
 ## Courses
 
 - [Private AI Series](https://courses.openmined.org/courses/foundations-of-private-computation)
+- [Secure and Private AI](https://www.udacity.com/course/secure-and-private-ai--ud185)
 
 ## Frameworks and Libraries
 
