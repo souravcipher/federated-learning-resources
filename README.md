@@ -7,6 +7,7 @@
 
 ## Frameworks and Libraries
 
+- [PySyft](https://github.com/OpenMined/PySyft)
 - [Flower](https://github.com/adap/flower)
 
 ## Research Papers
