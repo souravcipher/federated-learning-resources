@@ -9,6 +9,7 @@
 
 - [PySyft](https://github.com/OpenMined/PySyft)
 - [Flower](https://github.com/adap/flower)
+- [FedML](https://www.fedml.ai/)
 
 ## Research Papers
 
